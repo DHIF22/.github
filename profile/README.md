@@ -3,7 +3,7 @@
 <h1 align="center">DHIF22 - HTBLA Kaindorf</h1>
   
 <div align="center">
-  <img src="https://img.shields.io/badge/2DHIF-blue" alt="Year">
+  <img src="https://img.shields.io/badge/Year-2DHIF-blue" alt="Year">
   <img src="https://img.shields.io/badge/Students-26-orange" alt="Contributors">
   <img src="https://img.shields.io/badge/Top%20Language-Java-yellow" alt="Top Language">
   <img src="https://img.shields.io/badge/Last%20Update-October%206,%202023-green" alt="Last Updated">
