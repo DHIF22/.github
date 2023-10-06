@@ -70,49 +70,49 @@ The content is organized into various repositories, each serving a specific year
             <tr>
                 <td>5</td>
                 <td>BWMR</td>
-                <td>/</td>
+                <td> </td>
                 <td>LOAL</td>
-                <td>/</td>
+                <td> </td>
                 <td>AM</td>
             </tr>
             <tr>
                 <td>6</td>
                 <td>CABS_1</td>
                 <td>AM</td>
-                <td>/</td>
+                <td> </td>
                 <td>AM</td>
-                <td>/</td>
+                <td> </td>
             </tr>
             <tr>
                 <td>7</td>
-                <td>/</td>
+                <td> </td>
                 <td>POS1U</td>
-                <td>/</td>
+                <td> </td>
                 <td>DBI_2</td>
                 <td>CABS_1</td>
             </tr>
             <tr>
                 <td>8</td>
-                <td>/</td>
+                <td> </td>
                 <td>POS1U</td>
-                <td>/</td>
+                <td> </td>
                 <td>DBI_2</td>
                 <td>WMC_1U</td>
             </tr>
             <tr>
                 <td>9</td>
-                <td>/</td>
+                <td> </td>
                 <td>D</td>
-                <td>/</td>
-                <td>/</td>
+                <td> </td>
+                <td> </td>
                 <td>WMC_1</td>
             </tr>
             <tr>
                 <td>10</td>
-                <td>/</td>
+                <td> </td>
                 <td>SOPK</td>
-                <td>/</td>
-                <td>/</td>
-                <td>/</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
             </tr>
         </table>
