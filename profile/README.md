@@ -1,3 +1,5 @@
+![Logo](https://github.com/DHIF22/.github/blob/main/kaindorf-banner.png)
+
 <h1 align="center">2DHIF - HTBLA Kaindorf</h1>
   
 <div align="center">
