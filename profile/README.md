@@ -1,5 +1,4 @@
-![Logo](https://github.com/DHIF22/.github/blob/main/kaindorf-banner.png)
-<h1 align="center">Redflag Website Scanner 🚩</h1>
+<h1 align="center">2DHIF - HTBLA Kaindorf</h1>
   
 <p align="center">
   ![Year](https://img.shields.io/badge/Year-2023/2024-blue)
@@ -10,7 +9,6 @@
 
 <p align="center"><b>A central hub for our class materials and collaborative projects.</b></p>
 
-![Redflag](https://github.com/ffreydl/Redflag-scanner/blob/main/assets/img/preview.png?raw=true)
 
 ## Content Structure
 
@@ -25,23 +23,6 @@ This repository, curated by Professor Schreiber, contains lesson notes and resou
 ## Class Schedule
 
 ### School Timetable
-
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-
-    th {
-        background-color: #f2f2f2;
-    }
-</style>
 
 <h2>School timetable:</h2>
         <table>
