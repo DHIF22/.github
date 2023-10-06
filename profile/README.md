@@ -1,4 +1,4 @@
-![Logo](https://github.com/DHIF22/.github/raw/main/kaindorf-banner.png)
+<img src="https://github.com/DHIF22/.github/raw/main/kaindorf-banner.png" alt="Logo" style="width:100%;">
 
 <h1 align="center">2DHIF - HTBLA Kaindorf</h1>
   
