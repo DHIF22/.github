@@ -22,10 +22,10 @@ The content is organized into various repositories, each serving a specific year
 
 ## ✅ Important Repositories
 
+### [2425_3dWMC](https://github.com/DHIF22/2425_3dWMC)
+- This repository contains lesson notes and resources for the WMC lessons.
 ### [2324_2dPOS](https://github.com/DHIF22/2324_2dPOS)
 - This repository, curated by Professor Schreiber, contains lesson notes and resources for the POS lessons.
-### [2425_WMC](https://github.com/DHIF22/2425_3dWMC)
-- This repository contains lesson notes and resources for the WMC lessons.
 
 ## ⏳ Class Schedule (2023/24)
 <table>
