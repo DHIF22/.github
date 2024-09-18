@@ -25,7 +25,7 @@ The content is organized into various repositories, each serving a specific year
 ### [2324_2dPOS](https://github.com/DHIF22/2324_2dPOS)
 - This repository, curated by Professor Schreiber, contains lesson notes and resources for the POS lessons.
 
-## ⏳ Class Schedule
+## ⏳ Class Schedule (2023/24)
 <table>
             <tr>
                 <th><b>Time</b></th>
